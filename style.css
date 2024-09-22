@@ -2,7 +2,7 @@
 body {
 margin: 0;
 padding: 0;
-background-image: url(/Assets/backgroundImage.png);
+background-image: url('./Assets/backgroundImage.png');
 color: white;
 font-family: Arial, sans-serif;
 }
