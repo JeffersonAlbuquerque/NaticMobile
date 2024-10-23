@@ -4,7 +4,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+.error {
+    color: red;
+    display: block; /* As mensagens de erro devem ser exibidas como bloco */
+}
 
+.success{
+    color: orange;
+}
 body {
     font-family: 'Arial', sans-serif;
     background-color: #0e0e0e;
